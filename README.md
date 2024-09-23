@@ -1,1 +1,2 @@
-# Car-sales-analysis
+# Analysis of customer preferences in car purchases
+The aim of the project Analysis of customer preferences in car purchases is to understand the key factors that influence customers' purchasing decisions when choosing cars. The analysis includes examining the popularity of various brands, models, colors and body types, as well as examining how gender, income and region affect purchasing preferences. The results of this analysis can help dealers and manufacturers better match their offerings to market needs and target marketing strategies more effectively.
