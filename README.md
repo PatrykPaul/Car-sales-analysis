@@ -43,38 +43,30 @@ The project leverages several Python libraries for data analysis and visualizati
 
 Below are some example plots generated during the analysis:
 
-### 1. 🚘 Car Brand Popularity
-Bar charts were used to display the most popular car brands and models among customers.
+### 1. Most sold car in each region
 
-![Car Brand Popularity](images/brand_popularity_example.png)
+![Car Brand Popularity](https://github.com/PatrykPaul/Car-sales-analysis/blob/main/charts/Most%20sold%20car%20in%20each%20region.PNG)
 
-### 2. 🎨 Car Color Preferences
-Stacked bar charts highlighted the distribution of car color preferences across different regions.
+### 2. Number of Cars by Region
 
-![Car Color Preferences](images/color_preferences_example.png)
+![Car Color Preferences](https://github.com/PatrykPaul/Car-sales-analysis/blob/main/charts/Number%20of%20Cars%20by%20Region.PNG)
 
-### 3. 🚙 Body Style Preferences
-Line charts illustrated the popularity of different car body types, segmented by customer income groups.
+### 3. Most popular body Styles for Males_and_Females
 
-![Body Style Preferences](images/body_style_preferences_example.png)
+![Body Style Preferences](https://github.com/PatrykPaul/Car-sales-analysis/blob/main/charts/Most%20popular%20body%20Styles%20for%20Males_and_Females.PNG)
 
-### 4. 👨‍👩‍👧‍👦 Gender Influence on Car Sales
-Bar charts compared the number of cars sold by gender, broken down by brand, model, and body type.
+### 4. Most Popular Car Brands by Income Group
 
-![Gender Influence](images/gender_influence_example.png)
+![Gender Influence](https://github.com/PatrykPaul/Car-sales-analysis/blob/main/charts/Most%20Popular%20Car%20Brands%20by%20Income%20Group.PNG)
 
-### 5. 🌍 Regional Analysis
-Grouped bar charts were used to compare the top car models and body styles across various regions.
+### 5. Car Body Styles Purchased by Income Group
 
-![Regional Analysis](images/regional_analysis_example.png)
+![Regional Analysis](https://github.com/PatrykPaul/Car-sales-analysis/blob/main/charts/Car%20Body%20Styles%20Purchased%20by%20Income%20Group.PNG)
 
-### 6. 🏷️ Car Price Analysis
-Analyzed the average price of different car brands, body styles, and colors to understand pricing trends.
+### 6. Overall Car Color Popularity
 
-![Car Price Analysis](images/price_analysis_example.png)
+![Car Price Analysis](https://github.com/PatrykPaul/Car-sales-analysis/blob/main/charts/Overall%20Car%20Color%20Popularity.PNG)
 
-## 🚀 How to Run the Project
+### 7. Popularity of Car Body Styles
 
-1. **Clone the Repository**: 
-   ```bash
-   git clone https://github.com/yourusername/car-sales-analysis.git
+![Car Price Analysis](https://github.com/PatrykPaul/Car-sales-analysis/blob/main/charts/Popularity%20of%20Car%20Body%20Styles.PNG)
