@@ -1,4 +1,5 @@
-# 🚗 Car Sales Analysis Project
+# [🚗 Car Sales Analysis Project](https://github.com/PatrykPaul/Car-sales-analysis/blob/main/Analysis%20of%20cars%20sales.ipynb)
+
 
 This project aims to analyze customer preferences in car purchases to understand the key factors influencing purchasing decisions. The analysis examines the popularity of various brands, models, colors, and body types while considering how factors such as gender, income, and region affect purchasing preferences.
 
